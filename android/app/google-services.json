@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1075573865798",
+    "project_id": "pntecommerce-c6f0e",
+    "storage_bucket": "pntecommerce-c6f0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075573865798:android:dbe6158d6333d6b49df947",
+        "android_client_info": {
+          "package_name": "com.example.ecom_boni_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075573865798-v6c12mi92fasvvdon9bh8sgg49uhus55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGrt5zqz-f2wHHkSHiAQSf5SA8t0u_oJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075573865798-v6c12mi92fasvvdon9bh8sgg49uhus55.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075573865798-s89q8q1sjb06v3lreucmcauhgedpj02s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceUser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
